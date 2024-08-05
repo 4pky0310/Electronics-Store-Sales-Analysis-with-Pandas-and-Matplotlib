@@ -13,6 +13,7 @@ This script accomplishes the following:
     - Analyzes the "Grouped" column to find the most frequent combinations (itemsets) of products purchased together.
     - Calculates the frequency of itemsets for combinations of 2, 3, and 4 products.
     - Prints the top 10 most frequent itemsets for each product combination size.
+    
 
 ## Usage
 
@@ -24,12 +25,8 @@ This script accomplishes the following:
 
 
 ## Output
-
+    - Displays the bar chart to show most frequent "2 item set"
+    
 The script will print the top 10 most frequent itemsets for product combinations of 2, 3, and 4. Each itemset will be displayed as a tuple with its corresponding frequency count.
 
-## Further Enhancements
-
-- **Readability:** Add comments within the code to explain specific steps.
-- **Efficiency:** Explore using `apply` with a custom function for itemset analysis.
-- **Visualization:** Utilize libraries like matplotlib to create bar charts for top frequent itemsets.
 
