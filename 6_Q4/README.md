@@ -25,8 +25,6 @@ This script accomplishes the following:
 
 
 ## Output
-    - Displays the bar chart to show most frequent "2 item set"
-    
-The script will print the top 10 most frequent itemsets for product combinations of 2, 3, and 4. Each itemset will be displayed as a tuple with its corresponding frequency count.
+    The script will print the top 10 most frequent itemsets for product combinations of 2, 3, and 4. Each itemset will be displayed as a tuple with its corresponding frequency count.
 
 
