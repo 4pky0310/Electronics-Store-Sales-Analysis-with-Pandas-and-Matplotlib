@@ -12,8 +12,7 @@ This script accomplishes the following:
     - Identifies unique orders and creates a "Grouped" column that combines product names within each order.
     - Analyzes the "Grouped" column to find the most frequent combinations (itemsets) of products purchased together.
     - Calculates the frequency of itemsets for combinations of 2, 3, and 4 products.
-    - Prints the top 10 most frequent itemsets for each product combination size.
-    
+    - Prints the top 10 most frequent itemsets for each product combination size. 
 
 ## Usage
 
@@ -25,6 +24,11 @@ This script accomplishes the following:
 
 
 ## Output
+<<<<<<< HEAD
     The script will print the top 10 most frequent itemsets for product combinations of 2, 3, and 4. Each itemset will be displayed as a tuple with its corresponding frequency count.
+=======
+The script will print the top 10 most frequent itemsets for product combinations of 2, 3, and 4. Each itemset will be displayed as a tuple with its corresponding frequency count.
+>>>>>>> 45eebf61c0b9ee88b0b6b4ad136b1363514beb40
+
 
 
