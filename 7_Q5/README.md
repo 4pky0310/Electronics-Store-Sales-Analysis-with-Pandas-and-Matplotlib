@@ -1,4 +1,4 @@
-# Q5 : What product sold the most? Why do you think it sold the most ?
+# What product sold the most? Why do you think it sold the most ?
 
 ## Steps inlvolved 
     - Grouping by Product Column
