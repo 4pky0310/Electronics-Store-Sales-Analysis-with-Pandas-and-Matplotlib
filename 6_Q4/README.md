@@ -22,13 +22,8 @@ This script accomplishes the following:
     - Ensure your sales data is stored in separate CSV files within a designated directory.
     - Update the directory path in the `files` list within the script to point to your data location.
 
-
 ## Output
-<<<<<<< HEAD
     The script will print the top 10 most frequent itemsets for product combinations of 2, 3, and 4. Each itemset will be displayed as a tuple with its corresponding frequency count.
-=======
-The script will print the top 10 most frequent itemsets for product combinations of 2, 3, and 4. Each itemset will be displayed as a tuple with its corresponding frequency count.
->>>>>>> 45eebf61c0b9ee88b0b6b4ad136b1363514beb40
 
 
 
